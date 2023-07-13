@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c compile.c -o compile.o
