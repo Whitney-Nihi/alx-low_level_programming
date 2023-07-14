@@ -13,6 +13,7 @@ int main(void)
 	/* for loop to read from a - z*/
 	for (lower = 'a'; lower <= 'z'; lower++)
 	putchar(lower);
+	putchar('\n');
 
 	return (0);
 
