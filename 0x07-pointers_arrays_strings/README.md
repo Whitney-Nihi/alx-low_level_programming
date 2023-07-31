@@ -5,3 +5,4 @@ Functions for 0x07-pointers_arrays_strings project
 -char *_strchr(char *s, char c); - Function locates a character in a string
 -unsigned int _strspn(char *s, char *accept) - Function gets the length of a prefix substring
 -char *_strpbrk(char *s, char *accept) - Function searches a string for any of a set of bytes
+-char *_strstr(char *haystack, char *needle) -  Function locates a substring
