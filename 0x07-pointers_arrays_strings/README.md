@@ -6,3 +6,4 @@ Functions for 0x07-pointers_arrays_strings project
 -unsigned int _strspn(char *s, char *accept) - Function gets the length of a prefix substring
 -char *_strpbrk(char *s, char *accept) - Function searches a string for any of a set of bytes
 -char *_strstr(char *haystack, char *needle) -  Function locates a substring
+-void print_chessboard(char (*a)[8]); - Function prints the chessboard
