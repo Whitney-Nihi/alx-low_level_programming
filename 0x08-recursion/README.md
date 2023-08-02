@@ -5,3 +5,4 @@ Functions for 0x08-recursion project
 -int _strlen_recursion(char *s) - Function returns the length of a string
 -int factorial(int n) -  Function returns the factorial of a given number
 -int _pow_recursion(int x, int y) - Function returns the value of x raised to the power of y
+-int _sqrt_recursion(int n) -  Function returns the natural square root of a number
