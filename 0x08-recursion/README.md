@@ -6,3 +6,4 @@ Functions for 0x08-recursion project
 -int factorial(int n) -  Function returns the factorial of a given number
 -int _pow_recursion(int x, int y) - Function returns the value of x raised to the power of y
 -int _sqrt_recursion(int n) -  Function returns the natural square root of a number
+-int is_prime_number(int n) - Function returns 1 if the input integer is a prime number, otherwise return 0
