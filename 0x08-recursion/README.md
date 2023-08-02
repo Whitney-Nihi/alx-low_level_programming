@@ -8,3 +8,4 @@ Functions for 0x08-recursion project
 -int _sqrt_recursion(int n) -  Function returns the natural square root of a number
 -int is_prime_number(int n) - Function returns 1 if the input integer is a prime number, otherwise return 0
 -int is_palindrome(char *s) - Function returns 1 if a string is a palindrome and 0 if not
+-int wildcmp(char *s1, char *s2) - Function compares two strings and returns 1 if the strings can be considered identical, otherwise return 0
