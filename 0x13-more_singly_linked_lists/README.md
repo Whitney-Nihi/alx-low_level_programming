@@ -4,3 +4,4 @@ README for 0x13. C - More singly linked lists project containing functions proto
 -size_t listint_len(const listint_t *h) - Prototyep for function that returns the number of elements in a linked list
 -listint_t *add_nodeint(listint_t **head, const int n) - Prototype for function that adds new node at the beginning of a linked list
 -listint_t *add_nodeint_end(listint_t **head, const int n) - Prototype for function that adds a new node at the end of a linked list
+-void free_listint(listint_t *head) - Prototype for function that frees a linked list
