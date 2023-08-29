@@ -6,3 +6,4 @@ README for 0x13. C - More singly linked lists project containing functions proto
 -listint_t *add_nodeint_end(listint_t **head, const int n) - Prototype for function that adds a new node at the end of a linked list
 -void free_listint(listint_t *head) - Prototype for function that frees a linked list
 -void free_listint2(listint_t **head) - Prototype for function that frees a linked list and sets the head to NULL
+-int pop_listint(listint_t **head) - Prototype for function that deletes the head node of a linked list and returns the head node’s data (n)
