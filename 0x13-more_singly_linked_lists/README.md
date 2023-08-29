@@ -7,3 +7,4 @@ README for 0x13. C - More singly linked lists project containing functions proto
 -void free_listint(listint_t *head) - Prototype for function that frees a linked list
 -void free_listint2(listint_t **head) - Prototype for function that frees a linked list and sets the head to NULL
 -int pop_listint(listint_t **head) - Prototype for function that deletes the head node of a linked list and returns the head node’s data (n)
+-listint_t *get_nodeint_at_index(listint_t *head, unsigned int index) - Prototype for function that returns the nth node of a linked list
